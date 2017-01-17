@@ -1,0 +1,42 @@
+typography_spectrum: 0.2455197
+color:
+  saturation: 0.2737032
+  brandStrength: 0.9508288982324302
+  rhythmicContrast: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#ABC0BE'
+    - '#240827'
+    - '#3B3068'
+    - '#7287AA'
+  lightness: 0.7240143
+github: true
+layout_spectrum: 0.2258064
+author:
+  url: 'http://www.ahr4h.com'
+  name: akr4h
+  email: akr4hn@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc3c8bb-a876-42f3-89fc-842975e76921.png
+name: ^kr4h~
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b7d6cf-dd9f-457a-93a5-81b9e5e61e67.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: '~'
+content: []
+description: mixedMedia
+purpose:
+  - type: contact
+    url: 'mailto:rad3k@protonmail.ch'
+    label: contact
