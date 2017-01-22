@@ -33,7 +33,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: '~'
+title: ^kr4h~
 content: []
 description: mixedMedia
 purpose:
