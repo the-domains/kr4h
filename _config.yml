@@ -26,6 +26,9 @@ navigation:
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
     type: external
+  - name: youtube
+    url: 'https://www.youtube.com/channel/UC0ihTMg1be1ZpdQHhjNtdig'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b7d6cf-dd9f-457a-93a5-81b9e5e61e67.png
 collections:
