@@ -35,7 +35,7 @@ collections:
       path: '/:title/'
 title: ^kr4h~
 content: []
-description: mixedMedia
+description: auditoryDimensions
 purpose:
   - type: contact
     url: 'mailto:rad3k@protonmail.ch'
