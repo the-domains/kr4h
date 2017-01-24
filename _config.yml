@@ -1,17 +1,17 @@
-typography_spectrum: 0.2455197
+layout_spectrum: 0.9445826211479482
+typography_spectrum: 0.06860862409013628
 color:
-  saturation: 0.2737032
-  brandStrength: 0.9508288982324302
-  rhythmicContrast: 1
+  saturation: 0.91460223748238
+  brandStrength: 0.3825949521395977
+  rhythmicContrast: 0.8337400713029068
   brandColors:
     - '#FEFEFE'
     - '#ABC0BE'
     - '#240827'
     - '#3B3068'
     - '#7287AA'
-  lightness: 0.7240143
+  lightness: 0.5063913229364201
 github: true
-layout_spectrum: 0.2258064
 author:
   url: 'http://www.ahr4h.com'
   name: akr4h
