@@ -48,7 +48,7 @@ collections:
       path: '/:title/'
 title: ^kr4h~
 content: []
-description: '#musicislife'
+description: '#auditoryDimensions'
 purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
