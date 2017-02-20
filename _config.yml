@@ -48,7 +48,7 @@ collections:
       path: '/:title/'
 title: ^kr4h~
 content: []
-description: '#auditoryDimensions'
+description: DJ services
 purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
