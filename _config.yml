@@ -1,4 +1,3 @@
-layout_spectrum: 0.9445826211479482
 typography_spectrum: 0.06860862409013628
 color:
   saturation: 0.91460223748238
@@ -12,6 +11,7 @@ color:
     - '#7287AA'
   lightness: 0.5063913229364201
 github: true
+layout_spectrum: 0.9445826211479482
 author:
   url: 'http://www.ahr4h.com'
   name: akr4h
@@ -32,6 +32,9 @@ navigation:
   - name: snapchat
     url: 'https://www.snapchat.com/add/akr4ah'
     type: external
+  - name: DJ services
+    id: fe949bee-12d4-4840-bbd1-80d77378434d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b7d6cf-dd9f-457a-93a5-81b9e5e61e67.png
 collections:
