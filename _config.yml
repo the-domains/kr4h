@@ -51,7 +51,7 @@ collections:
       path: '/:title/'
 title: ^kr4h~
 content: []
-description: DJ services
+description: '#musicislife'
 purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
