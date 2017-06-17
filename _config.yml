@@ -1,40 +1,44 @@
-typography_spectrum: 0.06860862409013628
+typography_spectrum: 0.45930655381116686
+content_rating:
+  adult: false
 color:
-  saturation: 0.91460223748238
-  brandStrength: 0.3825949521395977
-  rhythmicContrast: 0.8337400713029068
+  lightness: 0.4793815243586271
   brandColors:
-    - '#FEFEFE'
-    - '#ABC0BE'
-    - '#240827'
-    - '#3B3068'
-    - '#7287AA'
-  lightness: 0.5063913229364201
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  saturation: 0.017019793169831137
+  brandStrength: 0.7102204339149049
+  rhythmicContrast: 0.9920840964095649
 github: true
-layout_spectrum: 0.9445826211479482
+opengraph: {}
+layout_spectrum: 0.8988561432975538
+analytics: {}
 author:
-  url: 'http://www.ahr4h.com'
   name: akr4h
+  url: 'http://www.ahr4h.com'
   email: akr4hn@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc3c8bb-a876-42f3-89fc-842975e76921.png
 name: ^kr4h~
 navigation:
-  - name: soundcloud
-    url: 'https://soundcloud.com/akr4hn'
-    type: external
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
     type: external
   - name: youtube
     url: 'https://www.youtube.com/channel/UC0ihTMg1be1ZpdQHhjNtdig'
     type: external
+  - name: soundcloud
+    url: 'https://soundcloud.com/akr4hn'
+    type: external
   - name: snapchat
     url: 'https://www.snapchat.com/add/akr4ah'
     type: external
-  - name: DJ services
-    id: fe949bee-12d4-4840-bbd1-80d77378434d
-    type: content
+  - name: 'Alamo Nightclub '
+    url: 'http://alamonightclub.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b7d6cf-dd9f-457a-93a5-81b9e5e61e67.png
 collections:
@@ -43,15 +47,39 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 title: ^kr4h~
-content: []
-description: '#musicislife'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f55fbec-a962-4cc6-b844-619d30c8f013.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f55fbec-a962-4cc6-b844-619d30c8f013.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '#EstesNights'
 purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
