@@ -33,8 +33,7 @@ navigation:
   - name: Estes Nights
     url: 'http://estesnights.com/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c8e1b5-e6b9-47c1-92de-83e993aca7d1.ico
+favicon: null
 collections:
   - index:
       path: /
