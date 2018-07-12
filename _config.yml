@@ -22,7 +22,7 @@ author:
   email: akr4hn@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc3c8bb-a876-42f3-89fc-842975e76921.png
-name: akr4h
+name: nothing
 navigation:
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
@@ -33,7 +33,8 @@ navigation:
   - name: Estes Nights
     url: 'http://estesnights.com/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/379ed37c-9493-4f11-a493-3db13d5d568c.ico
 collections:
   - index:
       path: /
