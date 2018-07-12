@@ -33,8 +33,7 @@ navigation:
   - name: Estes Nights
     url: 'http://estesnights.com/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b7d6cf-dd9f-457a-93a5-81b9e5e61e67.png
+favicon: null
 collections:
   - index:
       path: /
@@ -150,3 +149,4 @@ purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
     label: contact
+url: 'https://akr4h.com'
