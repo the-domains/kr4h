@@ -43,6 +43,9 @@ navigation:
   - name: soundcloud
     url: 'https://soundcloud.com/akr4hn'
     type: external
+  - name: facebook
+    url: 'https://www.facebook.com/akr4h/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/379ed37c-9493-4f11-a493-3db13d5d568c.ico
 collections:
