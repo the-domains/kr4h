@@ -22,7 +22,8 @@ author:
   email: akr4hn@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc3c8bb-a876-42f3-89fc-842975e76921.png
-name: nothing
+name: ^kr4h~
+url: 'https://akr4h.com'
 navigation:
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
@@ -32,6 +33,9 @@ navigation:
     type: external
   - name: Estes Nights
     url: 'http://estesnights.com/'
+    type: external
+  - name: photography
+    url: 'https://society6.com/s?q=rdslwkkszk&context=rdslwkkszk'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/379ed37c-9493-4f11-a493-3db13d5d568c.ico
@@ -150,4 +154,3 @@ purpose:
   - type: contact
     url: 'mailto:akr4hn@gmail.com'
     label: contact
-url: 'https://akr4h.com'
