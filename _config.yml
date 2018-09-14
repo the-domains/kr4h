@@ -28,6 +28,9 @@ navigation:
   - name: Estes Nights
     url: 'http://estesnights.com/'
     type: external
+  - name: ringtone
+    url: 'https://itunes.apple.com/us/album/who-that/1424384960?app=itunes'
+    type: external
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: external
   - name: photography
     url: 'https://society6.com/s?q=rdslwkkszk&context=rdslwkkszk'
-    type: external
-  - name: ringtone
-    url: 'https://itunes.apple.com/us/album/who-that/1424384960?app=itunes'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/379ed37c-9493-4f11-a493-3db13d5d568c.ico
