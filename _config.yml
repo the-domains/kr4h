@@ -25,14 +25,14 @@ logo: >-
 name: ^kr4h~
 url: 'https://akr4h.com'
 navigation:
+  - name: Estes Nights
+    url: 'http://estesnights.com/'
+    type: external
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
     type: external
   - name: youtube
     url: 'https://www.youtube.com/channel/UC0ihTMg1be1ZpdQHhjNtdig'
-    type: external
-  - name: Estes Nights
-    url: 'http://estesnights.com/'
     type: external
   - name: photography
     url: 'https://society6.com/s?q=rdslwkkszk&context=rdslwkkszk'
