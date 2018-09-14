@@ -31,14 +31,14 @@ navigation:
   - name: ringtone
     url: 'https://itunes.apple.com/us/album/who-that/1424384960?app=itunes'
     type: external
+  - name: photography
+    url: 'https://society6.com/s?q=rdslwkkszk&context=rdslwkkszk'
+    type: external
   - name: instagram
     url: 'https://www.instagram.com/akr4hn/'
     type: external
   - name: youtube
     url: 'https://www.youtube.com/channel/UC0ihTMg1be1ZpdQHhjNtdig'
-    type: external
-  - name: photography
-    url: 'https://society6.com/s?q=rdslwkkszk&context=rdslwkkszk'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/379ed37c-9493-4f11-a493-3db13d5d568c.ico
